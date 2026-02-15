@@ -13,6 +13,8 @@ gateway:
 env:
   HOME: /home/node
   TERM: xterm-256color
+  # Redirect npm global installs to the persistent config volume
+  NPM_CONFIG_PREFIX: /home/node/.openclaw/.npm-global
 
 secret:
   # Whether the chart should create a Secret resource
