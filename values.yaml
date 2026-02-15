@@ -31,13 +31,13 @@ persistence:
     size: 1Gi
     storageClass: ""
     accessModes:
-      - ReadWriteMany
+      - ReadWriteOnce
   workspace:
     enabled: true
     size: 5Gi
     storageClass: ""
     accessModes:
-      - ReadWriteMany
+      - ReadWriteOnce
 
 cli:
   # Deploy a persistent CLI pod for running setup/admin commands
