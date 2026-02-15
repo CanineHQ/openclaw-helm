@@ -1,6 +1,6 @@
 apiVersion: v2
 name: openclaw
-description: Multi-channel AI gateway with extensible messaging integrations
+description: Deploy OpenClaw — your personal AI assistant — to Kubernetes in minutes
 type: application
 version: 0.1.0
 appVersion: "2026.2.13"
