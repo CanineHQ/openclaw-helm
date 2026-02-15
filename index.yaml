@@ -3,12 +3,12 @@ entries:
   openclaw:
   - apiVersion: v2
     appVersion: 2026.2.13
-    created: "2026-02-14T19:12:02.354772-08:00"
+    created: "2026-02-14T19:15:05.832906-08:00"
     description: Multi-channel AI gateway with extensible messaging integrations
-    digest: fce9c89bd7e91524f7dba4a206db87138537c013ee3c634dc71085bf5ac7deaf
+    digest: e990d903d04274aa68316f63cf9251d812865cd71ab4a56dfd87bba215eb3cde
     name: openclaw
     type: application
     urls:
     - https://czhu12.github.io/openclaw-helm/openclaw-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-14T19:12:02.351794-08:00"
+generated: "2026-02-14T19:15:05.824986-08:00"
