@@ -3,12 +3,12 @@ entries:
   openclaw:
   - apiVersion: v2
     appVersion: 2026.2.13
-    created: "2026-02-14T19:40:56.998049-08:00"
-    description: Multi-channel AI gateway with extensible messaging integrations
-    digest: 91f857fc0578c04f594fe9f897e4bc734cc001ddeda9e59f3d8d4bb421a84085
+    created: "2026-02-14T20:11:57.131786-08:00"
+    description: Deploy OpenClaw — your personal AI assistant — to Kubernetes in minutes
+    digest: 55cf992b55b86b881424baf6b3f728e4ccaa7d8788ca3c3640a41b7e325fd9af
     name: openclaw
     type: application
     urls:
     - https://caninehq.github.io/openclaw-helm/openclaw-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-14T19:40:56.997635-08:00"
+generated: "2026-02-14T20:11:57.131517-08:00"
